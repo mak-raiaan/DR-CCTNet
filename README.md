@@ -1,4 +1,4 @@
-# -[A computer-aided diagnostic system to identify diabetic retinopathy, utilizing a modified compact convolutional transformer and low-resolution images to reduce computation time](https://www.mdpi.com/2227-9059/11/6/1566#B17-biomedicines-11-01566)
+# [A computer-aided diagnostic system to identify diabetic retinopathy, utilizing a modified compact convolutional transformer and low-resolution images to reduce computation time](https://www.mdpi.com/2227-9059/11/6/1566#B17-biomedicines-11-01566)
 
 📚 This repository contains the original implementation of DR-CCTNet for classifying Diabetic Retinopathy from Retinal Fundus Images.
 
