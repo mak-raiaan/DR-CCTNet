@@ -1,4 +1,4 @@
-# A computer-aided diagnostic system to identify diabetic retinopathy, utilizing a modified compact convolutional transformer and low-resolution images to reduce computation time
+# [A computer-aided diagnostic system to identify diabetic retinopathy, utilizing a modified compact convolutional transformer and low-resolution images to reduce computation time]{https://www.mdpi.com/2227-9059/11/6/1566#B17-biomedicines-11-01566}
 
 📚 This repository contains the original implementation of DR-CCTNet for classifying Diabetic Retinopathy from Retinal Fundus Images.
 
@@ -18,11 +18,11 @@ This project uses the following datasets:
 
 You can find the implementation of Mammo-Light in the following file:
 
-- [Mammo-Light.ipynb](https://github.com/mak-raiaan/DR-CCTNet/blob/main/DR-CCTNet.ipynb)
+- [DR-CCTNet.ipynb](https://github.com/mak-raiaan/DR-CCTNet/blob/main/DR-CCTNet.ipynb)
 
 ## Model Architecture
 
-![Mammo-Light Model](Models/ProposedModel.png)
+![DR-CCTNet](https://github.com/mak-raiaan/DR-CCTNet/blob/main/DR-CCTNet.png)
 
 
 📧 **Contact**: For inquiries, you can reach out to us at m.raiaan.cs@gmail.com.
